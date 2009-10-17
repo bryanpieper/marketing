@@ -27,7 +27,6 @@ THE SOFTWARE.
 
 import os, sys
 
-
 def list_ab_split(src_list_file, list_a_file=sys.stdout, list_b_file=sys.stdout, 
                   list_other_file=sys.stdout, sample_size=0.10):
     """ 
